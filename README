@@ -1,0 +1,1 @@
+Simple round robin load balancer in Java. Every connection to the load balancer gets forwarded to a host in the given list.
